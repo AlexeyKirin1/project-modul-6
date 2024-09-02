@@ -1,0 +1,12 @@
+span {
+    font-size: 50px;
+    font-family: Verdana, Arial, sans-serif;
+  }
+    
+  button {
+      background-color: rgb(253, 255, 128);
+      border-radius: 20%;
+      border-color: blue;
+      font-size: 50px;
+    
+  }
